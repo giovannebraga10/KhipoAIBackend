@@ -1,4 +1,5 @@
-﻿using KhipoAI.Services;
+﻿using KhipoAI.Models;
+using KhipoAI.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KhipoAI.Controllers
@@ -32,14 +33,14 @@ namespace KhipoAI.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] PlanoCotacaoDto dto)
         {
-            await _service.CriarAsync(dto.Nome, dto.Descricao);
+            await _service.CriarAsync(dto.tipo, dto.nome, dto.descricao);
             return CreatedAtAction(nameof(GetAll), null);
         }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id, [FromBody] PlanoCotacaoDto dto)
         {
-            await _service.AtualizarAsync(id, dto.Nome, dto.Descricao);
+            await _service.AtualizarAsync(id, dto.nome, dto.descricao);
             return NoContent();
         }
 
@@ -51,6 +52,6 @@ namespace KhipoAI.Controllers
         }
     }
 
-    public record PlanoCotacaoDto(string Nome, string Descricao);
+    public record PlanoCotacaoDto( TipoPlano tipo, string nome, string descricao);
 
 }

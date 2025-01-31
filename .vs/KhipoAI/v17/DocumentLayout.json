@@ -1,65 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\",
+  "WorkspaceRootPath": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\controllers\\cotacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\controllers\\cotacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\controllers\\planocotacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\controllers\\planocotacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\services\\planocotacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\services\\planocotacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\services\\planocotacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\repositories\\planocotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\models\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\models\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\services\\cotacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\services\\cotacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\repositories\\planocotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\repositories\\planocotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\models\\planocotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\controllers\\cotacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\controllers\\cotacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\models\\cotacaorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\models\\cotacaorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\models\\planocotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\models\\planocotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\services\\iplanocotacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\models\\tipoplano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\models\\tipoplano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\controllers\\planocotacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\controllers\\planocotacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\services\\iplanocotacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\services\\iplanocotacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\repositories\\iplanocotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\repositories\\iplanocotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\repositories\\iplanocotacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\khipoai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\khipoai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne\\source\\repos\\khipoai\\khipoai\\models\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|c:\\users\\giovanne.costa\\source\\repos\\khipoaibackend\\khipoai\\models\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964A9061-71AC-4073-B4A1-FDA68E7C0DEF}|KhipoAI\\KhipoAI.csproj|solutionrelative:khipoai\\models\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,202 +98,276 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Program.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Program.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Program.cs",
-              "RelativeToolTip": "KhipoAI\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:43:03.334Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlanoCotacaosController.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Controllers\\PlanoCotacaosController.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Controllers\\PlanoCotacaosController.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Controllers\\PlanoCotacaosController.cs",
-              "RelativeToolTip": "KhipoAI\\Controllers\\PlanoCotacaosController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CotacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\CotacaoService.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Services\\CotacaoService.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\CotacaoService.cs",
+              "RelativeToolTip": "KhipoAI\\Services\\CotacaoService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA1wCQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:09:19.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T13:46:26.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cotacao.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\Cotacao.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Models\\Cotacao.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\Cotacao.cs",
+              "RelativeToolTip": "KhipoAI\\Models\\Cotacao.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:24:09.533Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "PlanoCotacao.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Models\\PlanoCotacao.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\PlanoCotacao.cs",
               "RelativeDocumentMoniker": "KhipoAI\\Models\\PlanoCotacao.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Models\\PlanoCotacao.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\PlanoCotacao.cs",
               "RelativeToolTip": "KhipoAI\\Models\\PlanoCotacao.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:03:32.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T04:03:32.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Program.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Program.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Program.cs",
+              "RelativeToolTip": "KhipoAI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:43:03.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PlanoCotacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Services\\PlanoCotacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\PlanoCotacaoService.cs",
               "RelativeDocumentMoniker": "KhipoAI\\Services\\PlanoCotacaoService.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Services\\PlanoCotacaoService.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\PlanoCotacaoService.cs",
               "RelativeToolTip": "KhipoAI\\Services\\PlanoCotacaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T04:01:34.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IPlanoCotacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Services\\IPlanoCotacaoService.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Services\\IPlanoCotacaoService.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Services\\IPlanoCotacaoService.cs",
-              "RelativeToolTip": "KhipoAI\\Services\\IPlanoCotacaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:01:16.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlanoCotacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
-              "RelativeToolTip": "KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:58:39.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPlanoCotacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
-              "RelativeToolTip": "KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:57:25.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "KhipoAI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:49:46.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CotacaoController.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Controllers\\CotacaoController.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Controllers\\CotacaoController.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Controllers\\CotacaoController.cs",
-              "RelativeToolTip": "KhipoAI\\Controllers\\CotacaoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:30:54.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "KhipoAI\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:43:52.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Services\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Services\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Services\\IUsuarioService.cs",
-              "RelativeToolTip": "KhipoAI\\Services\\IUsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:43:39.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "KhipoAI\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:40:03.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Repositories\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Repositories\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Repositories\\IUsuarioRepository.cs",
-              "RelativeToolTip": "KhipoAI\\Repositories\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Title": "IPlanoCotacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
+              "RelativeToolTip": "KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:39:44.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Local.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Models\\Local.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Models\\Local.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Models\\Local.cs",
-              "RelativeToolTip": "KhipoAI\\Models\\Local.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:32:17.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:57:25.273Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "KhipoAI\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Giovanne\\source\\repos\\KhipoAI\\KhipoAI\\Models\\Usuario.cs",
-              "RelativeToolTip": "KhipoAI\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Title": "IPlanoCotacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\IPlanoCotacaoService.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Services\\IPlanoCotacaoService.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\IPlanoCotacaoService.cs",
+              "RelativeToolTip": "KhipoAI\\Services\\IPlanoCotacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:32:14.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T04:01:16.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CotacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Controllers\\CotacaoController.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Controllers\\CotacaoController.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Controllers\\CotacaoController.cs",
+              "RelativeToolTip": "KhipoAI\\Controllers\\CotacaoController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:30:54.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanoCotacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
+              "RelativeToolTip": "KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:58:39.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoPlano.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\TipoPlano.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Models\\TipoPlano.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\TipoPlano.cs",
+              "RelativeToolTip": "KhipoAI\\Models\\TipoPlano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:12:41.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CotacaoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\CotacaoRequest.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Models\\CotacaoRequest.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\CotacaoRequest.cs",
+              "RelativeToolTip": "KhipoAI\\Models\\CotacaoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:03:21.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "KhipoAI\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:04:10.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\appsettings.json",
+              "RelativeDocumentMoniker": "KhipoAI\\appsettings.json",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\appsettings.json",
+              "RelativeToolTip": "KhipoAI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T15:24:26.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlanoCotacaosController.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Controllers\\PlanoCotacaosController.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Controllers\\PlanoCotacaosController.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Controllers\\PlanoCotacaosController.cs",
+              "RelativeToolTip": "KhipoAI\\Controllers\\PlanoCotacaosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:09:19.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KhipoAI.csproj",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\Source\\Repos\\KhipoAIBackend\\KhipoAI\\KhipoAI.csproj",
+              "RelativeDocumentMoniker": "KhipoAI\\KhipoAI.csproj",
+              "ToolTip": "C:\\Users\\giovanne.costa\\Source\\Repos\\KhipoAIBackend\\KhipoAI\\KhipoAI.csproj",
+              "RelativeToolTip": "KhipoAI\\KhipoAI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T14:20:36.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "KhipoAI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:49:46.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\Usuario.cs",
+              "RelativeToolTip": "KhipoAI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:32:14.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "KhipoAI\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:43:39.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "KhipoAI\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:43:52.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "KhipoAI\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:40:03.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "KhipoAI\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:39:44.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Local.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\Local.cs",
+              "RelativeDocumentMoniker": "KhipoAI\\Models\\Local.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\Local.cs",
+              "RelativeToolTip": "KhipoAI\\Models\\Local.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:32:17.663Z"
             }
           ]
         }

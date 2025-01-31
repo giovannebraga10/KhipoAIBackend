@@ -23,9 +23,9 @@ namespace KhipoAI.Services
             return await _repository.GetByIdAsync(id);
         }
 
-        public async Task CriarAsync(string nome, string descricao)
+        public async Task CriarAsync(TipoPlano tipo ,string nome, string descricao)
         {
-            var plano = new PlanoCotacao(nome, descricao);
+            var plano = new PlanoCotacao(tipo, nome, descricao);
             await _repository.AddAsync(plano);
         }
 

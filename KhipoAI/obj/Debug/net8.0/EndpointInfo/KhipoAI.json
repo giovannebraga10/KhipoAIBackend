@@ -50,17 +50,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cotacao"
+                "$ref": "#/components/schemas/CotacaoRequest"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cotacao"
+                "$ref": "#/components/schemas/CotacaoRequest"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Cotacao"
+                "$ref": "#/components/schemas/CotacaoRequest"
               }
             }
           }
@@ -130,17 +130,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cotacao"
+                "$ref": "#/components/schemas/CotacaoRequest"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cotacao"
+                "$ref": "#/components/schemas/CotacaoRequest"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Cotacao"
+                "$ref": "#/components/schemas/CotacaoRequest"
               }
             }
           }
@@ -477,28 +477,54 @@
             "format": "int32",
             "readOnly": true
           },
+          "planoId": {
+            "type": "integer",
+            "format": "int32"
+          },
           "plano": {
             "$ref": "#/components/schemas/PlanoCotacao"
           },
           "descricao": {
             "type": "string",
-            "nullable": true,
-            "readOnly": true
+            "nullable": true
           },
           "valor": {
             "type": "number",
-            "format": "double",
-            "readOnly": true
+            "format": "double"
           },
           "horas": {
             "type": "number",
-            "format": "double",
-            "readOnly": true
+            "format": "double"
           },
           "peso": {
             "type": "number",
-            "format": "double",
-            "readOnly": true
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CotacaoRequest": {
+        "type": "object",
+        "properties": {
+          "planoId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          },
+          "valor": {
+            "type": "number",
+            "format": "double"
+          },
+          "horas": {
+            "type": "number",
+            "format": "double"
+          },
+          "peso": {
+            "type": "number",
+            "format": "double"
           }
         },
         "additionalProperties": false
@@ -508,8 +534,32 @@
         "properties": {
           "id": {
             "type": "integer",
-            "format": "int32",
+            "format": "int32"
+          },
+          "tipo": {
+            "$ref": "#/components/schemas/TipoPlano"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          },
+          "valorHora": {
+            "type": "number",
+            "format": "double",
             "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "PlanoCotacaoDto": {
+        "type": "object",
+        "properties": {
+          "tipo": {
+            "$ref": "#/components/schemas/TipoPlano"
           },
           "nome": {
             "type": "string",
@@ -522,19 +572,14 @@
         },
         "additionalProperties": false
       },
-      "PlanoCotacaoDto": {
-        "type": "object",
-        "properties": {
-          "nome": {
-            "type": "string",
-            "nullable": true
-          },
-          "descricao": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
+      "TipoPlano": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
       },
       "Usuario": {
         "type": "object",

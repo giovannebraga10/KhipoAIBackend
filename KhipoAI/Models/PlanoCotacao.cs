@@ -3,24 +3,37 @@
 
     public class PlanoCotacao
     {
-        public int Id { get; private set; }
-        public string Nome { get; private set; }
-        public string Descricao { get; private set; }
+        public int Id { get; set; }
+        public TipoPlano Tipo { get; set; }
+        public string Nome { get; set; }
+        public string Descricao { get; set; }
 
-        
-        private PlanoCotacao() { }
-
-        public PlanoCotacao(string nome, string descricao)
+        public decimal ValorHora
         {
+            get
+            {
+                return Tipo switch
+                {
+                    TipoPlano.Basic => 50,
+                    TipoPlano.Pro => 100,
+                    TipoPlano.Premium => 150,
+                    _ => 0
+                };
+            }
+        }
+
+        public PlanoCotacao(TipoPlano tipo, string nome, string descricao)
+        {
+            Tipo = tipo;
             Nome = nome;
             Descricao = descricao;
         }
-
         public void AtualizarDados(string nome, string descricao)
         {
             Nome = nome;
             Descricao = descricao;
         }
     }
+
 
 }

@@ -14,8 +14,13 @@
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Cotacao>()
+            .HasOne(c => c.Plano)
+            .WithMany()
+            .HasForeignKey(c => c.PlanoId);
 
-            
+
+
         }
     }
 
