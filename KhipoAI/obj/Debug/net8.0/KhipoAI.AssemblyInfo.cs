@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KhipoAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc0ac3bf1d8064f7642ff37c649d73d148d40ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5dcf1dceba1b62773360c2dfeee75864af4562f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KhipoAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KhipoAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

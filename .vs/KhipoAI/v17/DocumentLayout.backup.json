@@ -114,8 +114,7 @@
               "RelativeToolTip": "KhipoAI\\Services\\CotacaoService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAIA1wCQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T13:46:26.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T13:46:26.405Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "KhipoAI\\Models\\Cotacao.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T13:24:09.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T13:24:09.533Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "KhipoAI\\Models\\PlanoCotacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:03:32.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T04:03:32.746Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "KhipoAI\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:43:03.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T04:43:03.334Z"
             },
             {
               "$type": "Document",
@@ -179,8 +175,7 @@
               "RelativeToolTip": "KhipoAI\\Repositories\\IPlanoCotacaoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:57:25.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:57:25.273Z"
             },
             {
               "$type": "Document",
@@ -192,8 +187,7 @@
               "RelativeToolTip": "KhipoAI\\Services\\IPlanoCotacaoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:01:16.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T04:01:16.119Z"
             },
             {
               "$type": "Document",
@@ -205,8 +199,7 @@
               "RelativeToolTip": "KhipoAI\\Controllers\\CotacaoController.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:30:54.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:30:54.064Z"
             },
             {
               "$type": "Document",
@@ -218,21 +211,19 @@
               "RelativeToolTip": "KhipoAI\\Repositories\\PlanoCotacaoRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:58:39.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:58:39.007Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "TipoPlano.cs",
-              "DocumentMoniker": "C:\\Users\\giovanne.costa\\Source\\Repos\\KhipoAIBackend\\KhipoAI\\Models\\TipoPlano.cs",
+              "DocumentMoniker": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\TipoPlano.cs",
               "RelativeDocumentMoniker": "KhipoAI\\Models\\TipoPlano.cs",
-              "ToolTip": "C:\\Users\\giovanne.costa\\Source\\Repos\\KhipoAIBackend\\KhipoAI\\Models\\TipoPlano.cs",
+              "ToolTip": "C:\\Users\\giovanne.costa\\source\\repos\\KhipoAIBackend\\KhipoAI\\Models\\TipoPlano.cs",
               "RelativeToolTip": "KhipoAI\\Models\\TipoPlano.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T14:12:41.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T14:12:41.367Z"
             },
             {
               "$type": "Document",
@@ -244,8 +235,7 @@
               "RelativeToolTip": "KhipoAI\\Models\\CotacaoRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T16:03:21.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T16:03:21.049Z"
             },
             {
               "$type": "Document",
@@ -257,8 +247,7 @@
               "RelativeToolTip": "KhipoAI\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:04:10.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T15:04:10.108Z"
             },
             {
               "$type": "Document",
@@ -270,8 +259,7 @@
               "RelativeToolTip": "KhipoAI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-31T15:24:26.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T15:24:26.784Z"
             },
             {
               "$type": "Document",
@@ -283,21 +271,19 @@
               "RelativeToolTip": "KhipoAI\\Controllers\\PlanoCotacaosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:09:19.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T04:09:19.252Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "KhipoAI",
+              "Title": "KhipoAI.csproj",
               "DocumentMoniker": "C:\\Users\\giovanne.costa\\Source\\Repos\\KhipoAIBackend\\KhipoAI\\KhipoAI.csproj",
               "RelativeDocumentMoniker": "KhipoAI\\KhipoAI.csproj",
               "ToolTip": "C:\\Users\\giovanne.costa\\Source\\Repos\\KhipoAIBackend\\KhipoAI\\KhipoAI.csproj",
               "RelativeToolTip": "KhipoAI\\KhipoAI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-31T14:20:36.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T14:20:36.895Z"
             },
             {
               "$type": "Document",
@@ -309,8 +295,7 @@
               "RelativeToolTip": "KhipoAI\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:49:46.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:49:46.677Z"
             },
             {
               "$type": "Document",
@@ -322,8 +307,7 @@
               "RelativeToolTip": "KhipoAI\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:32:14.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:32:14.628Z"
             },
             {
               "$type": "Document",
@@ -335,8 +319,7 @@
               "RelativeToolTip": "KhipoAI\\Services\\IUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:43:39.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:43:39.58Z"
             },
             {
               "$type": "Document",
@@ -348,8 +331,7 @@
               "RelativeToolTip": "KhipoAI\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:43:52.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:43:52.626Z"
             },
             {
               "$type": "Document",
@@ -361,8 +343,7 @@
               "RelativeToolTip": "KhipoAI\\Repositories\\UsuarioRepository.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:40:03.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:40:03.519Z"
             },
             {
               "$type": "Document",
@@ -374,8 +355,7 @@
               "RelativeToolTip": "KhipoAI\\Repositories\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:39:44.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:39:44.829Z"
             },
             {
               "$type": "Document",
@@ -387,8 +367,7 @@
               "RelativeToolTip": "KhipoAI\\Models\\Local.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T03:32:17.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T03:32:17.663Z"
             }
           ]
         }
