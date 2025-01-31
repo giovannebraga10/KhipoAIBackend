@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KhipoAI",
+    "\\KhipoAI\\Context",
+    "\\KhipoAI\\Controllers",
+    "\\KhipoAI\\Models",
+    "\\KhipoAI\\Properties",
+    "\\KhipoAI\\Repositories",
+    "\\KhipoAI\\Services"
+  ],
+  "SelectedNode": "\\KhipoAI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
